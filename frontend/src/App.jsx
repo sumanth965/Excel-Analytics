@@ -10,14 +10,13 @@ function App() {
   return (
     <>
       <Toaster position="top-center" />
-      
+
 
       <Router>
         <Routes>
           <Route path="/" element={<Auth />} />
           {/* <Route path="/l" element={<Login />} /> */}
           {/* <Route path="/register" element={<Register />} /> */}
-          {/* Add other routes here */}
         </Routes>
       </Router>
     </>
