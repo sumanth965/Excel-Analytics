@@ -17,7 +17,7 @@ function App() {
           <Route path="/" element={<Auth />} />
           {/* <Route path="/l" element={<Login />} /> */}
           {/* <Route path="/register" element={<Register />} /> */}
-          {/* Add other routes hereeee */}
+          {/* Add other routes here...... */}
         </Routes>
       </Router>
     </>
